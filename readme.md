@@ -19,24 +19,36 @@ OS： 	windows10
 软件：	VS Code
 
 环境：	python                       3.11.7
-		 jupyter_client               8.6.0
+
+​		 jupyter_client               8.6.0
 
 依赖包：
 
 ​		numpy                        1.24.3
+
 ​		pandas                       2.1.4
+
 ​		matplotlib                   3.8.2
+
 ​		tensorflow                   2.13.1
+
 ​		keras                        2.13.1
+
 ​		scikit-learn                 1.3.2
 
 .
 
 ## 文件目录说明：
 
-————根目录				
-	└————data					  存放数据集
-	└————result					存放一些结果 .svg 图片
-	└————源码备份				   存放源码的备份 .md .html 格式
-	*.ipynb						源码（确保安装Jupter、Python）可用VSCode打开
+————根目录		
+
+​	└————data					  存放数据集
+
+​	└————result					存放一些结果 .svg 图片
+
+​	└————源码备份				   存放源码的备份 .md .html 格式
+
+​	*.ipynb						源码（确保安装Jupter、Python）可用VSCode打开
+
+
 
